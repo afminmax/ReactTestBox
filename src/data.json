@@ -5,15 +5,15 @@
     "desc": "A basic element that stopped the pulsing heart of a giant star. Used for providing hardness and strength to weapons and armor.",
     "last buy": 12.34,
     "last sell": 11.32,
-    "picture": "65912.png"
+    "image": "https://render.guildwars2.com/file/69722C33064097766ABC44B20F5D4B551E599E32/65912.png"
   },
   {
     "id": 2,
     "name": "Platinum Ingot",
-    "desc": "A basic element forged in the gas of a neutron furnace from a supernova, used as a means of adding flexibility in many types of weapon and armor.",
+    "desc": "A basic element forged from the neutron furnace of supernovae, used as a means of adding flexibility in many types of weapons and armor.",
     "last buy": 7.2,
     "last sell": 5.6,
-    "picture": "/images/65914.png"
+    "image": "https://render.guildwars2.com/file/3F08D6044B2268BE57972DCB1F0424B5A60F2AEC/65914.png"
   },
   {
     "id": 3,
@@ -21,14 +21,14 @@
     "desc": "A forged metal consisting of a mix of other metals. Imparts strength and corrosion resistance to armor and weapons.",
     "last buy": 7.91,
     "last sell": 8.45,
-    "picture": "/images/65916.png"
+    "image": "https://render.guildwars2.com/file/FCB6E507C84EDD01E2CE25665370FDE8423B58F9/65916.png"
   },
   {
     "id": 4,
     "name": "Orichalcum Ingot",
-    "desc": "A basic element forged in the heart and minds of fantasy authors.",
+    "desc": "A basic element forged in the hearts and minds of fantasy authors. Imparts glitz and shinyness to weapons and armor.",
     "last buy": 3.61,
     "last sell": 5.67,
-    "picture": "/images/220460.png"
+    "image": "https://render.guildwars2.com/file/D1941454313ACCB234906840E1FB401D49091B96/220460.png"
   }
 ]

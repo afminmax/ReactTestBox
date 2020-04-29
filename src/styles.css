@@ -6,3 +6,29 @@ body {
   background: black;
   color: teal;
 }
+
+.header {
+  text-align: center;
+}
+
+.card {
+  background: white;
+  text-align: center;
+}
+
+.card img {
+  border-radius: 50%;
+  border: 3px solid teal;
+}
+
+.card.title {
+  margin: 0 auto;
+}
+/* 
+.card body {
+  text-align: center;
+} */
+
+/* .card text {
+  text-align: center;
+} */
